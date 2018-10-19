@@ -2,6 +2,7 @@ from datetime import datetime
 
 
 def useful_function():
+    "telling the truth might be useful"
     return 42
 
 
