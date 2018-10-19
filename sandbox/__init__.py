@@ -6,6 +6,8 @@ def useful_function():
 
 
 def is_towel_day(day=None):
+    """Return True if it's that day of the year you must not
+    forget your towel."""
     if day is None:
         day = datetime.today()
     return (day.day, day.month) == (25, 5)
