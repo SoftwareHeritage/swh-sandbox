@@ -1,6 +1,11 @@
 from datetime import datetime
 
 
+def some_stuff(toto):
+    "nothing fancy here"
+    return toto
+
+
 def useful_function():
     "telling the truth might be useful"
     return 42
