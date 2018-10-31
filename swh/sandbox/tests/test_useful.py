@@ -1,4 +1,4 @@
-from sandbox import useful_function
+from swh.sandbox import useful_function
 
 
 def test_useful_ok():

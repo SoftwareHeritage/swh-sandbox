@@ -1,5 +1,5 @@
 from datetime import datetime
-from sandbox import is_towel_day
+from swh.sandbox import is_towel_day
 
 
 def test_towel_day():
