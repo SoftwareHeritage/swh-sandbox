@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='swh-sandbox',
     description='Sandbox project',
-    version='0.0.3',
+    version='0.0.4',
     author='Software Heritage developers',
     author_email='swh-devel@inria.fr',
     url='https://forge.softwareheritage.org/source/sandbox',
